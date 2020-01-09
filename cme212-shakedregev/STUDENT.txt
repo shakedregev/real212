@@ -1,0 +1,5 @@
+[cme212-student]
+name = Shaked Regev
+stanford_email = sregev@stanford.edu
+stanford_id = 06182020
+github_user = shakedregev
